@@ -1,8 +1,9 @@
 /list               https://github.com/nothingrandom/0random.co/blob/master/_redirects
-/foodwithbenjamin   https://instragram.com/foodwithbenjamin
+/foodwithbenjamin   https://instagram.com/foodwithbenjamin
 /github             https://github.com/nothingrandom
 /insta              https://instagram.com/nothingrandom
 /food               https://nothingrandom.com/food/
 /hiber              https://hiber.global
+
 #fallback
 /*                  https://nothingrandom.com
