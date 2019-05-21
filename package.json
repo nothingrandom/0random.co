@@ -1,5 +1,6 @@
 {
   "baseUrl": "https://0random.co",
+  "license": "MIT",
   "scripts": {
     "shorten": "netlify-shortener"
   },
