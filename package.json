@@ -1,0 +1,9 @@
+{
+  "baseUrl": "https://0random.co",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "devDependencies": {
+    "netlify-shortener": "^1.0.1"
+  }
+}
